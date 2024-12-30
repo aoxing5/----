@@ -79,7 +79,7 @@
 2. 安装步骤
    ```bash
    # 1. 克隆项目
-   git clone [项目地址]
+   git clone https://github.com/aoxing5/online-bookstore.git
 
    # 2. 导入数据库
    mysql -u root -p book < book.sql
